@@ -1,8 +1,8 @@
-👋 Hi, I’m Akshay Panigrahi
-👀 I’m interested in Product Management, Generative AI, Agentic AI, UI/UX, and Digital Marketing
-🌱 I’m currently learning Generative AI, Agentic AI systems, and end-to-end AI product development
-💼 I have built products such as Healthcare ATS, Chatbot, Voice AI, HRM Software, Internal GPT, and CRM systems
-💞️ I’m looking to collaborate on AI-driven products, agentic workflows, UX-focused solutions, and digital transformation projects
-📫 How to reach me: mailto:akshaypanigrahi7@email.com | [LinkedIn](https://www.linkedin.com/in/akshaypanigrahi7/)
-😄 Pronouns: He / Him
-⚡ Fun fact: I love building AI-powered solutions that blend great UX with smart automation—turning ideas into real products is my happy place!
+- 👋 Hi, I’m **Akshay Panigrahi**
+- 👀 I’m interested in **Product Management, Generative AI, Agentic AI, UI/UX, and Digital Marketing**
+- 🌱 I’m currently learning **Generative AI, Agentic AI systems, and end-to-end AI product development**
+- 💼 I have built products such as **Healthcare ATS, Chatbot, Voice AI, HRM Software, Internal GPT, and CRM systems**
+- 💞️ I’m looking to collaborate on **AI-driven products, agentic workflows, UX-focused solutions, and digital transformation projects**
+- 📫 How to reach me: **mailto:akshaypanigrahi7@email.com** | [LinkedIn](https://www.linkedin.com/in/akshaypanigrahi7/)
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: **I love building AI-powered solutions that blend great UX with smart automation—turning ideas into real products is my happy place!**
