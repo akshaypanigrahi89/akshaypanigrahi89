@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning **AI Engeering, and building end-to-end AI product**
 - 💼 I have built products such as **Healthcare ATS, RAG Chatbot, Voice AI, HRM Software, Internal GPT, and CRM systems**
 - 💞️ I’m looking to collaborate on **AI-driven products, agentic workflows, UX-focused solutions, and digital transformation projects**
-- 📫 How to reach me: **mailto:akshaypanigrahi7@email.com** | [LinkedIn](https://www.linkedin.com/in/akshaypanigrahi7/)
+- 📫 How to reach me: **mailto:akshaypanigrahi7@email.com** | [LinkedIn](https://www.linkedin.com/in/akshaypanigrahi89/)
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I love building AI-powered solutions that blend great UX with smart automation—turning ideas into real products is my happy place!**
