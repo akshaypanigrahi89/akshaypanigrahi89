@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Akshay Panigrahi**
-- 👀 I’m interested in **Product Management with Generative & Agentic AI, AI Business Analyst, UI/UX, and Digital Marketing**
+- 👀 I’m interested in **AI Engineer**
 - 🌱 I’m currently learning **AI Engeering, and building end-to-end AI product**
 - 💼 I have built products such as **Healthcare ATS, RAG Chatbot, Voice AI, HRM Software, Internal GPT, and CRM systems**
 - 💞️ I’m looking to collaborate on **AI-driven products, agentic workflows, UX-focused solutions, and digital transformation projects**
