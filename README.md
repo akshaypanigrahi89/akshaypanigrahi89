@@ -55,6 +55,8 @@ Resume parsing, candidate matching, and scoring using LLMs.
 ### 🔹 AI Productivity Agent
 Multi-step AI agent for task prioritization and planning.
 
+---
+
 ## 🎯 Focus Areas
 
 - AI Product Development (GenAI & Agentic AI)
@@ -62,16 +64,22 @@ Multi-step AI agent for task prioritization and planning.
 - Workflow Automation & AI Systems
 - Scalable AI SaaS Products
 
+---
+
 ## 📈 Impact
 
 - Improved operational efficiency by 40% through AI automation  
 - Increased sprint velocity by 20% via product optimization  
 - Built and deployed LLM/RAG systems with 90%+ accuracy  
 
+---
+
 ## 🤝 Let’s Connect
 
 - LinkedIn: https://www.linkedin.com/in/your-link
 - Email: akshaypanigrahi7@gmail.com
+
+---
 
 ## 💡 Philosophy
 
