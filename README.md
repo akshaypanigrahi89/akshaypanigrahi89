@@ -1,91 +1,131 @@
-# Hi, I'm Akshay 👋
+```markdown
+# Hi, I'm Akshay panigrahi
 
-AI Product Owner building AI-powered products from idea → MVP → scale.
+## Product Owner | Scrum Master | Product Manager
 
----
-
-## 🚀 About Me
-
-I work at the intersection of **Product, AI, and Execution**.
-
-With 12+ years of experience across product ownership, business analysis, and digital systems, I focus on building **AI-driven SaaS products** using Generative AI, LLMs, and agentic workflows.
-
-I don’t just manage products — I build them.
+Strategic Product Owner and Scrum Master with 10+ years of experience in Digital Marketing and 3+ years of expertise in Product Ownership, Agile Delivery, and Business Analysis. Experienced in managing the complete product lifecycle from ideation to launch, driving product strategy, roadmap planning, backlog management, stakeholder collaboration, and Agile execution.
 
 ---
 
-## 🧠 What I’m Building
+## About Me
 
-- AI Productivity & HRMS Platform (Kanban + AI + Agentic workflows)
-- RAG-based AI Knowledge Assistants
-- AI-powered ATS, CRM, and HRMS systems
-- Agent-based automation workflows
-
----
-
-## ⚙️ Tech Stack
-
-**AI & ML**
-- LLM, RAG, Agentic AI, LLMOps
-- Prompt Engineering, NLP, Conversational AI
-
-**Backend & Data**
-- Python, FastAPI
-- SQL, Snowflake
-- REST APIs, Data Pipelines
-
-**Tools & Platforms**
-- LangChain, LangGraph
-- n8n (automation)
-- No-Code / Low-Code tools
+- Product Owner & Scrum Master with expertise in Agile Product Delivery
+- Strong background in Product Strategy, Roadmaps, and Stakeholder Management
+- Experienced in AI-Powered Products, ATS, CRM, and Workflow Automation
+- Passionate about solving customer problems through data-driven product decisions
+- Skilled in leading cross-functional teams and delivering business value
 
 ---
 
-## 📂 Featured Projects
+## Core Skills
 
-### 🔹 AI Kanban Productivity Platform
-AI-powered task management system with Kanban board, AI planning, and agentic workflows.
+### Product Management
+- Product Strategy
+- Product Roadmaps
+- Product Discovery
+- Product Lifecycle Management
+- Backlog Prioritization
+- User Stories
+- Acceptance Criteria
+- Release Planning
 
-### 🔹 RAG Knowledge Assistant
-Context-aware chatbot using embeddings and semantic search.
+### Agile & Scrum
+- Scrum Framework
+- SAFe
+- Sprint Planning
+- Sprint Reviews
+- Sprint Retrospectives
+- Agile Metrics
+- Risk Management
 
-### 🔹 AI ATS Matching System
-Resume parsing, candidate matching, and scoring using LLMs.
+### Business Analysis
+- Requirement Gathering
+- Process Mapping
+- Stakeholder Management
+- UAT
+- Documentation
 
-### 🔹 AI Productivity Agent
-Multi-step AI agent for task prioritization and planning.
+### Tools & Technologies
+- Jira
+- Confluence
+- Miro
+- ServiceNow
+- SQL
+- Snowflake
+- Excel
+- Power BI
+
+### AI & Automation
+- AI Product Management
+- Prompt Engineering
+- AI Workflow Automation
+- Conversational AI
+- Product Analytics
 
 ---
 
-## 🎯 Focus Areas
+## Featured Projects
 
-- AI Product Development (GenAI & Agentic AI)
-- MVP Building (Code + No-Code)
-- Workflow Automation & AI Systems
-- Scalable AI SaaS Products
+### AI Recruiter Assistant Agent
 
----
+AI-powered recruitment platform designed to automate resume screening, candidate matching, interview scheduling, and recruiter workflows.
 
-## 📈 Impact
-
-- Improved operational efficiency by 40% through AI automation  
-- Increased sprint velocity by 20% via product optimization  
-- Built and deployed LLM/RAG systems with 90%+ accuracy  
+**Skills Used:**
+Product Strategy, Product Roadmap, Agile Scrum, Jira, Confluence, User Stories, Backlog Management, ATS, CRM, Stakeholder Management, SQL, Analytics
 
 ---
 
-## 🤝 Let’s Connect
+### AI-Powered Customer Support Chatbot
 
-- LinkedIn: https://www.linkedin.com/in/your-link
-- Email: akshaypanigrahi7@gmail.com
+Conversational AI solution developed to improve customer support efficiency, automate query resolution, and enhance customer experience.
+
+**Skills Used:**
+Product Management, Agile Delivery, Scrum, Customer Journey Mapping, Product Analytics, Conversational AI, KPI Tracking, UAT, Release Management
 
 ---
 
-## 💡 Philosophy
+### AI-Enabled ATS & CRM Platform
 
-Build products like solving problems:
+Enterprise platform supporting recruitment operations, lead management, workflow automation, analytics, and reporting.
 
-> Start with a real problem  
-> Build fast  
-> Validate early  
-> Scale what works 🚀
+**Skills Used:**
+Product Ownership, Agile Scrum, Jira, Confluence, CRM, ATS, Requirement Gathering, User Stories, Process Mapping, SQL, Snowflake, Product Analytics
+
+---
+
+## Certifications
+
+- Product Management Certification
+- Certified Scrum Master (CSM)
+- Professional Scrum Product Owner (PSPO)
+- Agile Project Management
+- Google Analytics Certification
+
+---
+
+## Professional Interests
+
+- Product Strategy & Innovation
+- Agile Product Development
+- AI-Powered Products
+- Digital Transformation
+- SaaS Products
+- Recruitment Technology
+- Customer Experience Optimization
+
+---
+
+## Connect With Me
+
+📧 Email: akshaypanigrahi7@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/akshaypanigrahi89/
+
+🌐 Portfolio: https://akshaypanigrahi.vercel.app/
+
+---
+> Building customer-centric products through strategy, collaboration, and Agile execution.
+### Recruiter Keywords
+
+Product Owner | Product Manager | Scrum Master | Agile | SAFe | Jira | Confluence | Product Strategy | Product Roadmap | User Stories | Backlog Management | Stakeholder Management | AI Products | ATS | CRM | Business Analysis | Product Analytics | Digital Transformation
+```
